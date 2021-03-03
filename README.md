@@ -3,7 +3,7 @@
 ## I'm a Student, Developer and Challenge-Seeker :crossed_swords:!
 
 - :muscle: My strongest language is Python :snake:
-- :school: I'm a CS major (undergrad until May 2021) at Cal State Fullerton - Whooo go Titans :heavy_exclamation_mark:
+- :school: Cal State Fullerton CS major (graduate May 2021) - Whooo go Titans :heavy_exclamation_mark:
 - :astonished: Currently coding in Swift :iphone:, Java :coffee:, PHP :elephant: and SQL :file_cabinet: for current class load
 - ⚡ Fun fact: I used to play bass guitar in a band :sunglasses::guitar:
 
