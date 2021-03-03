@@ -2,15 +2,10 @@
 
 ## I'm a Student, Developer and Challenge-Seeker :crossed_swords:!
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- :school: Cal State Fullerton CS Major - Whooo go Titans! 
+- :muscle: My strongest language is Python :snake:
+- :school: I'm a CS major (undergrad until May 2021) at Cal State Fullerton - Whooo go Titans :heavy_exclamation_mark:
+- :astonished: Currently coding in Swift :iphone:, Java :coffee:, PHP :elephant: and SQL :file_cabinet: for current class load
 - ⚡ Fun fact: I used to play bass guitar in a band :sunglasses::guitar:
-
-### Connect with me:
-
-![Twitter][1.2]
-
-[1.2]: http://i.imgur.com/wWzX9uB.png
 
 ### Languages and Tools:
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
