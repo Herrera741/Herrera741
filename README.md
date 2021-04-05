@@ -4,7 +4,7 @@
 
 - :muscle: My strongest language is Python :snake:
 - :school: Cal State Fullerton CS major (graduate May 2021) - Whooo go Titans :heavy_exclamation_mark:
-- :astonished: Currently coding in Swift :iphone:, Java :coffee:, PHP :elephant: and SQL :file_cabinet: for current class load
+- :astonished: Currently coding in Swift :iphone:, Java :coffee:, PHP :elephant: and SQL :file_cabinet:
 - ⚡ Fun fact: I used to play bass guitar in a band :sunglasses::guitar:
 
 ### Languages and Tools:
