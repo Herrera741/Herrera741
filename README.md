@@ -2,7 +2,6 @@
 
 ## I'm a SWE and Challenge-Seeker :crossed_swords:!
 
-- :muscle: Strongest language is Python :snake:
 - :school: Cal State Fullerton CS Grad (Spring 2021) - Whooo go Titans :heavy_exclamation_mark:
 
 ### Languages and Tools:
